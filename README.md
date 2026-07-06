@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
-<p align="left">Sou estudante de Engenharia de Software, com 18 anos, atualmente no 1º semestre da graduação. Desenvolvi minha afinidade com a área de tecnologia ainda no início do ensino médio, período em que consolidei meu interesse por tecnologia, jogos e desenvolvimento de soluções digitais, fatores que influenciaram diretamente a escolha do curso.
+<p align="left">Sou estudante de Engenharia de Software, com 18 anos, atualmente no 2º semestre da graduação. Desenvolvi minha afinidade com a área de tecnologia ainda no início do ensino médio, período em que consolidei meu interesse por tecnologia, jogos e desenvolvimento de soluções digitais, fatores que influenciaram diretamente a escolha do curso.
 Busco uma oportunidade de estágio ou jovem aprendiz que possibilite o desenvolvimento de competências técnicas e comportamentais, bem como a aplicação prática dos conhecimentos acadêmicos, aliada ao aprendizado contínuo em um ambiente profissional dinâmico e colaborativo.</p>
 
 ###
